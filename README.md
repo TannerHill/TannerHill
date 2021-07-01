@@ -18,6 +18,7 @@ I was hired as an intern at InsightsNow, Inc. in March of 2020, before I graduat
 - using Azure to implement serverless automations among several systems, including HubSpot
 - working with production databases including applying automatic and manual migrations of data via ORM and hand-written scripts
 - helping to implement a new authentication provider
+- containerizing legacy applications for migration to cloud servers
 - assisting with the transition to an iterative SDLC from a more linear model
 
 ## Languages, Libraries, and Frameworks
